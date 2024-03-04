@@ -1,0 +1,15 @@
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\TenthApp\TenthApp\bin\Debug\net7.0\TenthApp.exe
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\TenthApp\TenthApp\bin\Debug\net7.0\TenthApp.deps.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\TenthApp\TenthApp\bin\Debug\net7.0\TenthApp.runtimeconfig.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\TenthApp\TenthApp\bin\Debug\net7.0\TenthApp.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\TenthApp\TenthApp\bin\Debug\net7.0\TenthApp.pdb
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\TenthApp\TenthApp\obj\Debug\net7.0\TenthApp.csproj.AssemblyReference.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\TenthApp\TenthApp\obj\Debug\net7.0\TenthApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\TenthApp\TenthApp\obj\Debug\net7.0\TenthApp.AssemblyInfoInputs.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\TenthApp\TenthApp\obj\Debug\net7.0\TenthApp.AssemblyInfo.cs
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\TenthApp\TenthApp\obj\Debug\net7.0\TenthApp.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\TenthApp\TenthApp\obj\Debug\net7.0\TenthApp.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\TenthApp\TenthApp\obj\Debug\net7.0\refint\TenthApp.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\TenthApp\TenthApp\obj\Debug\net7.0\TenthApp.pdb
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\TenthApp\TenthApp\obj\Debug\net7.0\TenthApp.genruntimeconfig.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\TenthApp\TenthApp\obj\Debug\net7.0\ref\TenthApp.dll
